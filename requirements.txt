@@ -1,0 +1,6 @@
+pyproject-toml
+pandas
+plotly
+textwrap3
+pytorch-tabular
+scikit-learn
